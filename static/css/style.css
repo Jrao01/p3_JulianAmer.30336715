@@ -1,0 +1,42 @@
+body{
+  background: #000428;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.container{
+  background-color: #ffff;
+}
+.row{
+justify-content: center;
+ text-align: center;
+}
+
+img{
+    
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+
+}
+
+.info{color: #ffff;}
+
+.titulo{
+  color: #ffff;
+}
+
+.title{
+  color: #ffff;
+  width: 100%;
+}
+
+.ajustarcontainer{
+  height: 92vh;
+}
+
+
+.imgtable{
+  width: 20px;
+}
